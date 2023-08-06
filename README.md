@@ -6,8 +6,8 @@ Backtest is carried out from 2011.01 to 2023.02 (inclusive). Summary of the resu
 
 * Annualized return: 20.60%
 * Sharpe ratio: 1.06
-* Sortino Ratio: 2.05
-* Calmar Ratio: 1.05
+* Sortino ratio: 2.05
+* Calmar ratio: 1.05
 
 Sharpe ratio and Sortino ratio are calculated with risk-free return 0 and geometric means (slightly more conservative than with arithmetic means).
 
